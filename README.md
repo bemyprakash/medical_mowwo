@@ -57,6 +57,9 @@ For a richer, interactive experience, use the Streamlit GUI. This allows you to:
 ```
 streamlit run src/visualization_app.py
 ```
+
+** To use Live Tool , Go to https://huggingface.co/spaces/t2codes/medical_MoWWO_APP
+
 Then open the provided local URL (usually [http://localhost:8501](http://localhost:8501)) in your browser.
 
 ---
